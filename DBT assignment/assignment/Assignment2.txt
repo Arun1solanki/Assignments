@@ -1,0 +1,19 @@
+Assignment2:
+1) Which field of the Customers table is the primary key?
+
+the Cnum field of the Customers table can be composite primary key because Cnum is  unique and not null.
+
+2) What is the 4th column of the Customers table?
+
+Rating is the fourth column of customers table.
+select rating from customers;
+
+3) What is another word for row? For column?
+row:
+	tuple,opportunity
+Column: 
+	attribute,method
+
+4) Why isn’t it possible to see the first five rows of a table?
+
+because there is no order maintain while inserting and retriving the rows are stored in random address and according to address order they are retrived.
